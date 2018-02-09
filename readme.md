@@ -15,9 +15,9 @@ node index.js
 ```
 
 ## TODO 
-[X] Add upvote feature 
-[] Create user specific requests 
-[] Create a graphics suite to plot types to inform on good / bad ideas  
+* Add upvote feature 
+* Create user specific requests 
+* Create a graphics suite to plot types to inform on good / bad ideas  
 
 ## Resources 
 [https://medium.com/salida-software/rethinkdb-faye-vue-js-d0d02bfaf712#.1cqh23k1z](https://medium.com/salida-software/rethinkdb-faye-vue-js-d0d02bfaf712#.1cqh23k1z)
